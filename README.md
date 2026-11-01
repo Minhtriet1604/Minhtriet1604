@@ -72,13 +72,6 @@ public class Developer {
   <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
 
-- Java Core
-- Object-Oriented Programming (OOP)
-- Spring Boot
-- Spring Security
-- Spring Data JPA / Hibernate
-- RESTful APIs
-- Maven
 
 ### 🎨 Frontend Development
 
@@ -114,7 +107,7 @@ public class Developer {
 ### 🔧 Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,idea&theme=dark" alt="Git, GitHub, GitLab, Docker, VS Code and IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,idea&theme=dark" alt="Git, GitHub, Postman, Docker, VS Code and IntelliJ IDEA" />
 </p>
 
 <p>
@@ -186,24 +179,106 @@ public class Developer {
 
 ---
 
+## 🏆 Featured Projects
 
-## 🏆 GitHub Trophies
+<table bordercolor="#30363d">
+<tr>
+<!-- Dự án 1 -->
+<td width="50%" valign="top">
 
-<div align="center">
+<h3>🏥 Healthcare Appointment System</h3>
+<b>Hệ thống quản lý đặt lịch khám bệnh</b><br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Minhtriet1604&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&t=1730476740" alt="GitHub Trophies" width="100%" />
+<img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<br><br>
 
-</div>
+Ứng dụng web hỗ trợ quản lý lịch khám, danh sách bác sĩ và bệnh nhân với phân quyền chặt chẽ.
+<br><br>
 
----
+<ul>
+<li>👥 <b>Phân quyền:</b> Quản lý luồng người dùng Patient, Doctor và Admin.</li>
+<li>📅 <b>Booking:</b> Đặt lịch, kiểm tra lịch trống và quản lý trạng thái khám.</li>
+</ul>
 
-##  📈 Contribution Activity
+🔗 <a href="https://github.com/Minhtriet1604/Healthcare-Appointment-Management-System">GitHub Repository</a>
 
-<div align="center">
+</td>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Minhtriet1604&theme=tokyo-night&hide_border=true&t=1730476740" alt="Contribution Activity Graph" width="100%" />
+<!-- Dự án 2 -->
+<td width="50%" valign="top">
 
-</div>
+<h3>🌐 ChamCommunity Portal</h3>
+<b>Nền tảng thông tin văn hóa cộng đồng</b><br><br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<br><br>
+
+Trang web dành riêng cho cộng đồng người Chăm, cung cấp thông tin, tin tức và sự kiện văn hóa.
+<br><br>
+
+<ul>
+<li>📰 <b>Tin tức:</b> Cập nhật liên tục các sự kiện nổi bật của cộng đồng.</li>
+<li>📱 <b>Responsive:</b> Giao diện tương thích trên mọi thiết bị di động.</li>
+</ul>
+
+🔗 <a href="https://github.com/Minhtriet1604/ChamCommunity">GitHub Repository</a> | 🌐 <a href="http://chamcommunity.kesug.com">Live Demo</a>
+
+</td>
+</tr>
+
+<tr>
+<!-- Dự án 3 -->
+<td width="50%" valign="top">
+
+<h3>🏆 Portal Giải Chi Hội</h3>
+<b>Cổng thông tin sự kiện giải đấu</b><br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<br><br>
+
+Website phục vụ cho các hoạt động, sự kiện và quản lý kết quả giải đấu nội bộ của chi hội.
+<br><br>
+
+<ul>
+<li>🎯 <b>Quản lý:</b> Cập nhật thông tin, lịch thi đấu và kết quả nhanh chóng.</li>
+<li>⚡ <b>Tương tác:</b> Hỗ trợ kết nối các thành viên tham gia sự kiện.</li>
+</ul>
+
+🔗 <a href="https://github.com/Minhtriet1604/portal-giai-chi-hoi">GitHub Repository</a>
+
+</td>
+
+<!-- Dự án 4 -->
+<td width="50%" valign="top">
+
+<h3>👨‍💻 Personal CV Portfolio</h3>
+<b>Trang web hồ sơ cá nhân</b><br><br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<br><br>
+
+Trang CV trực tuyến (Curriculum Vitae) giới thiệu bản thân, kỹ năng và các dự án tiêu biểu.
+<br><br>
+
+<ul>
+<li>🎨 <b>Giao diện:</b> Thiết kế trực quan, thể hiện rõ định hướng chuyên môn.</li>
+<li>🚀 <b>Triển khai:</b> Cấu trúc code tĩnh gọn nhẹ, dễ dàng lưu trữ và chia sẻ.</li>
+</ul>
+
+🔗 <a href="https://github.com/Minhtriet1604/my_profile_Triet">GitHub Repository</a>
+
+</td>
+</tr>
+</table>
+
+<br>
 ---
 ## 🔥 GitHub Streak
 
@@ -212,7 +287,26 @@ public class Developer {
 <img src="https://streak-stats.demolab.com/?user=Minhtriet1604&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+--- 
+## 📊 GitHub Analytics & Activity
 
+<div align="center">
+  <!-- Biểu đồ tổng quan đóng góp (Dạng sóng) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minhtriet1604&theme=tokyonight" alt="Profile Summary" width="100%" />
+  
+  <br><br>
+  
+  <!-- Biểu đồ tròn phân tích ngôn ngữ -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Minhtriet1604&theme=tokyonight" alt="Top Languages by Repo" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minhtriet1604&theme=tokyonight" alt="Top Languages by Commit" width="48%" />
+</div>
+---
+
+## 🐍 GitHub Contribution Snake Game
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Minhtriet1604/Minhtriet1604/output/github-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+</div>
 ---
 
 <div align="center">
